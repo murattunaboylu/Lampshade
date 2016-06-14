@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:LampshadeGenerator"
         xmlns:helix="http://helix-toolkit.org/wpf"
         mc:Ignorable="d"
-        Title="Lampshade Generator" Height="350" Width="525">
+        Title="Lampshade Generator" Height="600" Width="600">
     <helix:HelixViewport3D x:Name="viewPort3d" ZoomExtentsWhenLoaded="true" Grid.RowSpan="2" >
         <!-- Remember to add light to the scene -->
         <helix:DefaultLights/>
