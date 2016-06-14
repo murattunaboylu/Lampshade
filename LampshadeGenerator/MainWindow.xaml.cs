@@ -29,7 +29,7 @@ namespace LampshadeGenerator
         public MainWindow()
         {
             InitializeComponent();
-
+             
             ModelVisual3D device3D = new ModelVisual3D();
             device3D.Content = Display3d(MODEL_PATH);
             // Add to view port
