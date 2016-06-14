@@ -1,0 +1,27 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Carpet_Diamond_Yellow_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.835294 0.839216 0.760784
+Ks 0.330000 0.330000 0.330000
+map_Kd Lampshade.2/_Carpet_Diamond_Yellow_2.png
+
+newmtl Metal_Silver
+Ka 0.000000 0.000000 0.000000
+Kd 0.858824 0.847059 0.784314
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+map_Kd Lampshade.2/Metal_Silver.png
+
+newmtl _Metal_Silver_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.921569 0.921569 0.921569
+Ks 0.330000 0.330000 0.330000
+
